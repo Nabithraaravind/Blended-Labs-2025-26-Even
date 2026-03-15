@@ -88,16 +88,15 @@ Describe step-by-step how you performed this experiment in your own words.
 
 ![Output1](C6.1.png)
 
-![Output1](C6.2.png)
+![Output2](C6.2.png.png)
 
-![Output1](C6.3.png)
+![Output3](C6.3.png.png)
 
-![Output1](C6.4.png)
+![Output4](C6.4.png.png.png)
 
-![Output1](C6.5.png)
+![Output5](C6.5.png.png.png)
 
-![Output1](C6.6.png)
-
+![Output6](C6.6.png)
 
 
 
